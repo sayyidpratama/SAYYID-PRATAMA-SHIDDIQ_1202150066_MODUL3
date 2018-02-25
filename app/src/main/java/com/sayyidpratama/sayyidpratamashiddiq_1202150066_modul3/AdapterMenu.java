@@ -26,16 +26,6 @@ import android.widget.TextView;
 
 import java.util.List;
 
-
-
-/**
-
- * Created by arya on 24/02/18.
-
- */
-
-
-
 public class AdapterMenu extends RecyclerView.Adapter<AdapterMenu.holdermn> {
 
     private Context context;

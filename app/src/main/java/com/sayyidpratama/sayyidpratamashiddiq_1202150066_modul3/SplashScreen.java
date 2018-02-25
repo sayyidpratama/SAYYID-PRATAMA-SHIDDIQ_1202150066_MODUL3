@@ -48,7 +48,7 @@ public class SplashScreen extends AppCompatActivity {
 
                 //menampilkan toast
 
-                Toast.makeText(SplashScreen.this, "WELCOME", Toast.LENGTH_SHORT).show();
+                Toast.makeText(SplashScreen.this, "Selamat Datang", Toast.LENGTH_SHORT).show();
 
                 finish();
 
